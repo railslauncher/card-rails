@@ -25,19 +25,15 @@ card-rails contains both css and js for card
 Include card js in app/assets/javascripts/application.js
   
 ```javascript
-
 //= require card
- 
 ```
 
 Include card css in app/assets/stylesheets/application.css
 
 ```css
-
 /*
  *= require card
  */
- 
 ```
 
 For information on how to use card please visit [https://github.com/jessepollak/card](https://github.com/jessepollak/card)
