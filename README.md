@@ -1,8 +1,8 @@
 # Card::Rails
 
-Rails asset pipeline integration for card.js
+Rails asset pipeline integration for [Card](https://github.com/jessepollak/card)
 
-Card js version `0.1.1`
+Card version `0.1.1`
 
 ## Installation
 
