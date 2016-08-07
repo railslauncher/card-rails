@@ -2,7 +2,7 @@
 
 Rails asset pipeline integration for [Card](https://github.com/jessepollak/card)
 
-Card version `0.1.1`
+Card version `2.0.3`
 
 ## Installation
 

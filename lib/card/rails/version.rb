@@ -1,5 +1,5 @@
 module Card
   module Rails
-    VERSION = '0.0.1'
+    VERSION = '2.0.3'
   end
 end
